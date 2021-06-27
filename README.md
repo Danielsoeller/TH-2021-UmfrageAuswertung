@@ -6,7 +6,7 @@ Wir haben in Zuge unsere Vorlesung an der TH-Köln, eine Onlinebefragung mit Aus
 + Ergebnisse der Umfrage (Data)
 + DIS9-2_Research-Logbuch_Gruppe 13.docx
 + Präsentation zu Ergebnissen
-Jupiter Notebook in dem die Grafiken erstellt wurden
++Jupiter Notebook in dem die Grafiken erstellt wurden
 
 ## Ergebnisse
 Wir hatten 85 Teilnehmer(N= 85). Im Folgenden kurz ein Paar Grafiken zu unseren Ergebnissen.
