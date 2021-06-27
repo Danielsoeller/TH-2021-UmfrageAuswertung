@@ -1,6 +1,13 @@
-# TH-2021-UmfrageAuswertung Hallo du da
+# TH-2021-UmfrageAuswertung
+Autoren:
++ Söller, Daniel
++ Bär, Alexander
++ Jekel, Ann-Kathrin Lisa
++ Hashem, Wisal
+
 
 Wir haben in Zuge unsere Vorlesung an der TH-Köln, eine Onlinebefragung mit Auswertung durchgeführt. Diese ist das dazu korrespondierende repository. 
+
 ## Tabel of Content
 + Quest back Umfrage
 + Ergebnisse der Umfrage (Data)
