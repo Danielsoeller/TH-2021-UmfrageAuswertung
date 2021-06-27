@@ -1,7 +1,7 @@
 # TH-2021-UmfrageAuswertung
 Autoren:
-+ Söller, Daniel
-+ Bär, Alexander
++ [Söller, Daniel](https://github.com/Danielsoeller)
++ [Bär, Alexander](https://github.com/alexdriver)
 + Jekel, Ann-Kathrin Lisa
 + Hashem, Wisal
 
