@@ -9,7 +9,7 @@ Wir haben in Zuge unsere Vorlesung an der TH-Köln, eine Onlinebefragung mit Aus
 Jupiter Notebook in dem die Grafiken erstellt wurden
 
 ## Ergebnisse
-Wir hatten 85 Teilnehmer(N). Im Folgenden kurz ein Paar Grafiken zu unseren Ergebnissen.
+Wir hatten 85 Teilnehmer(N= 85). Im Folgenden kurz ein Paar Grafiken zu unseren Ergebnissen.
 
 Geschlecht
 
